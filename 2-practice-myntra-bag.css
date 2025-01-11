@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+
+    
+
+}
+#div1{
+    background-color:white;
+    height:70px ;
+    width:550px;
+    margin: 0 auto ;
+    padding: 10px;
+    
+    
+} 
+.bag{
+    background-color:lightgreen;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 30px;
+    
+}
+#wishlist{
+    border: 2px solid black;
+    padding: 5px 60px;
+    border-radius: 5px;
+}
+.sale-item{
+    border: none;
+    background-color:lightgreen;
+    border-radius: 10px;
+    padding: 5px 30px;
+    
+}
+h1{
+    margin: 10px 0px;
+}
